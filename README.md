@@ -1,5 +1,6 @@
 #Avocado Prices
-Historical data on avocado prices and sales volume in multiple US markets
+Historical data on avocado prices and sales volume in multiple US markets.I have data where temporal ordering matters ,for that reason recurrent networks are a great fit and easily outperform models that first flatten the temporal data.
 In this notebook, I will predict the average price of avocado using time-series modeling techniques
+
 
 
